@@ -5,7 +5,7 @@ This project is an IoT-based safety system designed to prevent drunk driving and
 
 ## Features
 - **Alcohol Detection:** MQ-3 Sensor stops ignition if alcohol is detected.
-- **Wear Detection:** IR Sensor ensures the helmet is worn.
+- **Wear Detection:** Limit switch ensures the helmet is worn.
 
 ## Tech Stack
 - **Hardware:** Arduino Uno, Nano, RF 433MHz Modules.
