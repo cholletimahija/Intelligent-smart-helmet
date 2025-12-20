@@ -15,3 +15,22 @@ This project is an IoT-based safety system designed to prevent drunk driving and
 1. Upload `helmet_code.ino` to the Transmitter Arduino.
 2. Upload `bike_code.ino` to the Receiver Arduino.
 3. Connect the relay to the ignition circuit.
+
+## System Architecture 🏗️
+Here is the visual representation of how the Smart Helmet system works:
+
+### Block Diagram
+![Block Diagram](blockdiagram.png.jpg)
+
+### Flowchart
+![Flow Chart](flowchart.jpg)
+
+---
+
+## Prototype Gallery 📸
+Here is the actual hardware setup showing the Helmet Unit and Bike Unit:
+
+![Working Model](workingmodel.jpg)
+
+### 🎥 Project Demo
+[Click here to watch the working video](workingvideo.mp4)
