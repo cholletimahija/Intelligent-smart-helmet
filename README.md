@@ -34,3 +34,8 @@ Here is the actual hardware setup showing the Helmet Unit and Bike Unit:
 
 ### 🎥 Project Demo
 [Click here to watch the working video](workingvideo.mp4)
+
+## 📄 Full Project Documentation
+Want to read the detailed report? 
+[Click here to view the Project Report PDF](MYMINI PROJECT Report.pdf)
+
